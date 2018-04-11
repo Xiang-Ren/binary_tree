@@ -1,4 +1,5 @@
 //104. Maximum Depth of Binary Tree
+//Note: the depth of the deepest leaf is 1, and the depth of the root is the total depth of the tree.
 
 /**
  * Definition for a binary tree node.
